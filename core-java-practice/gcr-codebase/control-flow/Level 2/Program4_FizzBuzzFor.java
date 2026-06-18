@@ -1,1 +1,0 @@
-// FizzBuzz using for loop

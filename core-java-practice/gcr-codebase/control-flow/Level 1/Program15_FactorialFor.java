@@ -1,1 +1,0 @@
-// Factorial using for loop

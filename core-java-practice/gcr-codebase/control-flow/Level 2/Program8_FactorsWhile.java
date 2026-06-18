@@ -1,1 +1,0 @@
-// Factors using while loop

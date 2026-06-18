@@ -1,1 +1,0 @@
-// Power using for loop
